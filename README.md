@@ -1,0 +1,2 @@
+# .files
+Configuration files
